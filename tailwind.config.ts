@@ -57,6 +57,10 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        "chat-user": "hsl(var(--chat-user))",
+        "chat-user-foreground": "hsl(var(--chat-user-foreground))",
+        "chat-assistant": "hsl(var(--chat-assistant))",
+        "chat-assistant-foreground": "hsl(var(--chat-assistant-foreground))",
       },
       borderRadius: {
         lg: "var(--radius)",
